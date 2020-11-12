@@ -200,7 +200,8 @@ html, body, h1, h2, h3, h4, h5 {font-family: "Open Sans", sans-serif}
           <img src="images/forest.jpg" alt="Forest" style="width:100%;">
           <p><strong>Forest Trek - Turahalli Forest</strong></p>
           <p>Sunday 6:00 am</p>
-          <p><button class="w3-button w3-block w3-theme-l4">Info</button></p>
+          <p><button class="w3-button w3-block w3-theme-l4" onclick='showinfo()'>Info</button></p>
+          <p id=showinfo></p>
         </div>
       </div>
       <br>
@@ -254,6 +255,11 @@ html, body, h1, h2, h3, h4, h5 {font-family: "Open Sans", sans-serif}
   function show() {
 
               document.getElementById('status').innerHTML= document.getElementById('content').innerHTML;
+
+              }
+  function showinfo() {
+
+              document.getElementById('showinfo').innerHTML= 'Turahalli is a wonderful spot not too far away from the city offering a spectacular sunrise view which one should not miss!'
 
               }
 // Accordion
