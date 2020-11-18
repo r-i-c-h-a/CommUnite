@@ -4,7 +4,7 @@ Design Process of our web app - CommUnite as a part of the Human Computer Intera
 We have created CommUnite to help people new to the city. CommUnite's goal is to help you with your day to day needs and activities. It also offers a platform where you can reach out to and connect with other people of the community with similar interests as yours and keep abreast of the ongoing events in the city. Everyone faces problems in a society as complex as ours and hence CommUnite offers a one-stop solution for your problems. With a large user base and CommUnite as a platform, you can raise issues and ask queries about anything and everything!
 
 Our design process is as follows:
-1. <b> Needfinding </b> - https://drive.google.com/file/d/1d2SXJRXb15349JHwtUO17sQEj7By-H2t/view <br>
+1. <b><u> Needfinding </u></b> - https://drive.google.com/file/d/1d2SXJRXb15349JHwtUO17sQEj7By-H2t/view <br>
 We started our project by brainstorming on the domain we will be focussing on. We finally settled on our user group being people who moved into Bangalore from around the world. We interviewed and empathized with three people from varied age groups to get more holistic insights. Upon gathering the insights, we unpacked them into empathy maps to find a common ground where the needs of all age groups lie.
 
 2. Low Fidelity Prototype - https://drive.google.com/file/d/1O2HjjyQSYI3SWFWU_c8db9Fi_wAt7PbS/view?usp=sharing <br>
