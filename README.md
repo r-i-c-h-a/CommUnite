@@ -7,7 +7,7 @@ Our design process is as follows:
 1. <b>Needfinding</b> - https://drive.google.com/file/d/1d2SXJRXb15349JHwtUO17sQEj7By-H2t/view <br>
 We started our project by brainstorming on the domain we will be focussing on. We finally settled on our user group being people who moved into Bangalore from around the world. We interviewed and empathized with three people from varied age groups to get more holistic insights. Upon gathering the insights, we unpacked them into empathy maps to find a common ground where the needs of all age groups lie.
 
-2. <b>Low Fidelity Prototype<b> - https://drive.google.com/file/d/1O2HjjyQSYI3SWFWU_c8db9Fi_wAt7PbS/view?usp=sharing <br>
+2. <b>Low Fidelity Prototype</b> - https://drive.google.com/file/d/1O2HjjyQSYI3SWFWU_c8db9Fi_wAt7PbS/view?usp=sharing <br>
 For the low-fi prototype, we made rough sketches of UIs with different layouts, to iteratively develop a UI that was easy to navigate for the user, while also providing all relavant information.
 
 3. <b>High Fidelity Prototype</b> - https://github.com/sharanyavenkat25/CommUnite/blob/main/home.html <br>
